@@ -39,7 +39,7 @@ Make sure Node.js and npm are installed on your system.
 1. Clone the repository:
 
    ```bash
-   git clone YOUR_GITHUB_REPOSITORY_URL
+   git clone https://github.com/G-Sneha08/celebrare-photo-gallery.git
    ```
 
 2. Navigate to the project folder:
